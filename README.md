@@ -59,7 +59,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":406,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.onlinemathtraining.com/wp-content/uploads/2020/04/640px-Typical_cnn.png" alt="" class="wp-image-406"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="640" height="197" src="https://www.onlinemathtraining.com/wp-content/uploads/2020/04/640px-Typical_cnn.png" alt="" class="wp-image-406" srcset="https://www.onlinemathtraining.com/wp-content/uploads/2020/04/640px-Typical_cnn.png 640w, https://www.onlinemathtraining.com/wp-content/uploads/2020/04/640px-Typical_cnn-300x92.png 300w" sizes="(max-width: 640px) 100vw, 640px"></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
